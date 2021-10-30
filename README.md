@@ -1,2 +1,2 @@
-# supervised_machine_learnong-challenge
+# supervised_machine_learning-challenge
 Predicting Credit Risk
